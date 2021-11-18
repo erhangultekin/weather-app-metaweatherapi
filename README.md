@@ -1,6 +1,7 @@
 # weather
 
-A new Flutter project.
+A new Flutter project. 
+Simple weather app working with meta-weather api
 
 ![connection_permission](https://user-images.githubusercontent.com/46086662/142467816-8f05f01c-a3f5-475f-9bda-085ed01425d3.png)
 ![forecast_page](https://user-images.githubusercontent.com/46086662/142467818-cdd9c74d-643c-43ad-9a88-d9856973e1c5.png)
